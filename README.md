@@ -71,7 +71,7 @@ Planejamento e controle de tempo extraídos do software de gestão ProjectLibre.
 
 O site está publicado e disponível em ambiente de produção através da infraestrutura da **Vercel**.
 
-🔗 **Clique para acessar:** [https://seu-site.vercel.app](https://seu-site.vercel.app)
+🔗 **Clique para acessar:** [[https://seu-site.vercel.app](https://seu-site.vercel.app)](https://dmd-phi.vercel.app)
 
 ---
 
